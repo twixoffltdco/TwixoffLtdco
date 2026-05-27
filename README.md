@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=600&height=35&lines=Welcome+to+TwixoffStudio;Делаю_Проекты_вместе_с_OinkTechLtd-OinkTechLLC+%F0%9F%92%A1;FullWorkTwixoffStudio+%F0%9F%A4%96" alt="Twixoff banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&width=700&height=35&lines=Twixoff+%F0%9F%8E%AE+%7C+YouTube+Creator;Vibe+Coder+%F0%9F%92%BB%F0%9F%8E%B8;%D0%9A%D1%83%D1%80%D0%B0%D1%82%D0%BE%D1%80+Resource+World+%F0%9F%91%91;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9+%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82+%D0%B8+%D0%BA%D0%BE%D0%B4" alt="Twixoff banner" />
 </h1>
 
 <p align="center">
