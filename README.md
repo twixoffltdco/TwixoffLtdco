@@ -36,7 +36,7 @@
 
 > *«Снимаю крутой контент. Без воды, с душой.»*
 
-👉 [Подписаться на YouTube](https://youtube.com/@Twixoff) *(вставь свою ссылку)*
+👉 [Подписаться на YouTube](https://youtube.com/@Twixoff) 
 
 ---
 
@@ -52,7 +52,7 @@
 
 Я живу принципами свободного обмена знаниями — у нас всё **бесплатно** и для души.
 
-🔗 [Мой профиль на RW](https://resource-world.ru/members/twixoff.182/)
+🔗 [Мой профиль на RW](https://resource-world.ru/members/twixoff.182/) [Resource World](https://img.shields.io/badge/Resource_World-Curator-00A86B?style=flat-square)
 
 ---
 
