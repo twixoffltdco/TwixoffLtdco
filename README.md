@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=600&height=35&lines=Welcome+to+TwixoffStudio+%F0%9F%9A%80;Делаю_Проекты_вместе_с_OinkTechLtd-OinkTechLLC+%F0%9F%92%A1;FullWorkTwixoffStudio+%F0%9F%A4%96" alt="Twixoff banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&vCenter=true&random=false&width=600&height=35&lines=Welcome+to+TwixoffStudio;Делаю_Проекты_вместе_с_OinkTechLtd-OinkTechLLC+%F0%9F%92%A1;FullWorkTwixoffStudio+%F0%9F%A4%96" alt="Twixoff banner" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=twixoffltdco&label=Profile%20Views&color=FF6B35&style=flat" alt="Twixoff" />
   <img src="https://img.shields.io/youtube/channel/subscribers/UC...?style=flat&logo=youtube&label=YouTube&color=FF0000" alt="YouTube subscribers" />
-  <!-- Замени UC... на ID своего канала, если хочешь живую статистику -->
 </p>
 
 ---
